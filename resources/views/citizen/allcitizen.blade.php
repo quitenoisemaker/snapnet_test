@@ -3,12 +3,13 @@
 @section('content')
 
         <div class="col-md-8">
+            <h4>See all Users attach to a ward</h4>
             <div class="card ">
                 <table class="table table-striped table-bordered dt-responsive " style="border-collapse: collapse; border-spacing: 0; width: 100%;">
                     <thead>
                     <tr>
                         {{-- <th>S/N</th> --}}
-                        <th>Name</th>
+                        <th>Full Name</th>
                         <th>Address</th>
                         <th>Phone</th>
                         <th>Ward</th>

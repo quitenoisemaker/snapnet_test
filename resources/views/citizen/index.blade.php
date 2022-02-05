@@ -3,7 +3,7 @@
 @section('content')
 
         <div class="col-md-8 ">
-            <h4>See all available state</h4>
+            <h4>See all available state ! Click on their names to see more</h4>
             <div class="card ">
                 
                 <table class="table table-striped table-bordered dt-responsive " style="border-collapse: collapse; border-spacing: 0; width: 100%;">
